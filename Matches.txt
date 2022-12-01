@@ -1,0 +1,48 @@
+Senegal,Netherlands,11/21/2022 19:00,5
+England,Iran,11/21/2022 16:00,7
+Qatar,Ecuador,11/20/2022 19:00,1
+United States,Wales,11/21/2022 22:00,3
+Argentina,Saudi Arabia,11/22/2022 13:00,2
+Denmark,Tunisia,11/22/2022 16:00,6
+Mexico,Poland,11/22/2022 19:00,8
+France,Australia,11/22/2022 22:00,4
+Morocco,Croatia,11/23/2022 13:00,1
+Germany,Japan,11/23/2022 16:00,7
+Spain,Costa Rica,11/23/2022 19:00,5
+Belgium,Canada,11/23/2022 22:00,1
+Brazil,Serbia,11/24/2022 22:00,2
+Portugal,Ghana,11/24/2022 19:00,8
+Uruguay,South Korea,11/24/2022 16:00,6
+Switzerland,Cameroon,11/24/2022 13:00,4
+Iran,Wales,11/25/2022 13:00,3
+Qatar,Senegal,11/25/2022 16:00,5
+Netherlands,Ecuador,11/25/2022 19:00,7
+England,United States,11/25/2022 22:00,1
+Tunisia,Australia,11/26/2022 13:00,4
+Poland,Saudi Arabia,11/26/2022 16:00,6
+France,Denmark,11/26/2022 19:00,8
+Argentina,Mexico,11/26/2022 22:00,2
+Japan,Costa Rica,11/27/2022 13:00,3
+Belgium,Morocco,11/27/2022 16:00,5
+Croatia,Canada,11/27/2022 19:00,7
+Spain,Germany,11/27/2022 22:00,1
+Serbia,Cameroon,11/28/2022 13:00,4
+South Korea,Ghana,11/28/2022 16:00,6
+Brazil,Switzerland,11/28/2022 19:00,8
+Portugal,Uruguay,11/28/2022 22:00,2
+England,Wales,11/29/2022 22:00,3
+Iran,United States,11/29/2022 22:00,5
+Ecuador,Senegal,11/29/2022 18:00,7
+Netherlands,Qatar,11/29/2022 18:00,1
+Denmark,Australia,11/30/2022 18:00,1
+Tunisia,France,11/30/2022 18:00,6
+Poland,Argentina,11/30/2022 22:00,8
+Saudi Arabia,Mexico,11/30/2022 22:00,1
+Croatia,Belgium,12/1/2022 18:00,3
+Canada,Morocco,12/1/2022 18:00,7
+Japan,Spain,12/1/2022 22:00,1
+Costa Rica,Germany,12/1/2022 22:00,1
+Ghana,Uruguay,12/2/2022 18:00,1
+South Korea,Portugal,12/2/2022 18:00,6
+Serbia,Switzerland,12/2/2022 22:00,1
+Brazil,Cameroon,12/2/2022 22:00,2

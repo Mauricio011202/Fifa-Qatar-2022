@@ -1,0 +1,45 @@
+Al Bayt Restaurant//Beer//11.6//beverages//alcoholic//25
+Al Bayt Restaurant//Pepsi//11.6//beverages//non-alcoholic//25
+Al Bayt Restaurant//Water//4.64//beverages//non-alcoholic//25
+Al Bayt Restaurant//Gatorade//6.96//beverages//non-alcoholic//25
+Al Bayt Restaurant//Hamburger//17.4//food//package//25
+Al Bayt Restaurant//Fish and Chips//23.2//food//plate//25
+Lusail Restaurant//Beer//11.6//beverages//alcoholic//25
+Lusail Restaurant//Pepsi//11.6//beverages//non-alcoholic//25
+Lusail Restaurant//Water//4.64//beverages//non-alcoholic//25
+Lusail Restaurant//Hamburger//17.4//food//package//25
+Lusail Restaurant//Fish and Chips//23.2//food//plate//25
+The emir Restaurant//Beer//11.6//beverages//alcoholic//25
+The emir Restaurant//Pepsi//11.6//beverages//non-alcoholic//25
+The emir Restaurant//Water//4.64//beverages//non-alcoholic//25
+The emir Restaurant//Pasta//23.2//food//plate//25
+The emir Restaurant//Steak//40.6//food//plate//25
+Ahmad Bin Ali Restaurant//Beer//11.6//beverages//alcoholic//25
+Ahmad Bin Ali Restaurant//Pepsi//11.6//beverages//non-alcoholic//25
+Ahmad Bin Ali Restaurant//Water//4.64//beverages//non-alcoholic//25
+Ahmad Bin Ali Restaurant//Hamburger//17.4//food//package//25
+Ahmad Bin Ali Restaurant//Fish and Chips//23.2//food//plate//25
+Al Janoub Restaurant//Beer//11.6//beverages//alcoholic//25
+Al Janoub Restaurant//Pepsi//11.6//beverages//non-alcoholic//25
+Al Janoub Restaurant//Water//4.64//beverages//non-alcoholic//25
+Al Janoub Restaurant//Hamburger//17.4//food//package//25
+Al Janoub Restaurant//Fish and Chips//23.2//food//plate//25
+Al Thumama Restaurant//Beer//11.6//beverages//alcoholic//25
+Al Thumama Restaurant//Pepsi//11.6//beverages//non-alcoholic//25
+Al Thumama Restaurant//Water//4.64//beverages//non-alcoholic//25
+Al Thumama Restaurant//Hamburger//17.4//food//plate//25
+Al Thumama Restaurant//Fish and Chips//23.2//food//plate//25
+Education City Restaurant//Beer//11.6//beverages//alcoholic//25
+Education City Restaurant//Pepsi//11.6//beverages//non-alcoholic//25
+Education City Restaurant//Water//4.64//beverages//non-alcoholic//25
+Education City Restaurant//Hamburger//17.4//food//package//25
+Education City Restaurant//Fish and Chips//23.2//food//plate//25
+Khalifa International Restaurant//Beer//11.6//beverages//alcoholic//25
+Khalifa International Restaurant//Pepsi//11.6//beverages//non-alcoholic//25
+Khalifa International Restaurant//Water//4.64//beverages//non-alcoholic//25
+Khalifa International Restaurant//Hamburger//17.4//food//package//25
+Khalifa International Restaurant//Fish and Chips//23.2//food//plate//25
+974 Restaurant//Pepsi//11.6//beverages//non-alcoholic//25
+974 Restaurant//Water//4.64//beverages//non-alcoholic//25
+974 Restaurant//Hamburger//17.4//food//package//25
+974 Restaurant//Fish and Chips//23.2//food//plate//25

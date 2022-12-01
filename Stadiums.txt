@@ -1,0 +1,8 @@
+Al Bayt Stadium,40,20,Al Khor City, 35km north of central Doha
+Lusail Stadium,60,20,Lusail City, 20km north of central Doha
+Ahmad Bin Ali Stadium,30,10,Umm Al Afaei, 20km west of central Doha
+Al Janoub Stadium,30,10,Al Wakrah, 22km east of central Doha
+Al Thumama Stadium,30,10,Al Thumama, 12km south of central Doha
+Education City Stadium,30,10,Al Rayyan, 13km north-west of central Doha
+Khalifa International Stadium,30,10,Aspire, 5km west of central Doha
+Stadium 974,30,10,Ras Abu Aboud, 10km east of central Doha
